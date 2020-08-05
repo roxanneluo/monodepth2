@@ -1,0 +1,11 @@
+Project: Monodepth2
+Version: (forgot to take note of the commit)
+Website: https://github.com/nianticlabs/monodepth2
+License: Custom
+Description: This is the reference PyTorch implementation for training and testing depth estimation models using the method described in
+
+Digging into Self-Supervised Monocular Depth Prediction
+Clément Godard, Oisin Mac Aodha, Michael Firman and Gabriel J. Brostow
+ICCV 2019
+    
+Changes: None.
